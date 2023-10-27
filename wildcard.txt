@@ -1,0 +1,3 @@
+extends  používame keď cheme vyberať údaje s štruktúry 
+super   používame keď cheme vkladať údaje s štruktúry 
+wildcard  nepoužívame  keď chceme vkladť aj vyberať údaje  sštruktúry 
