@@ -1,6 +1,6 @@
 package com.skilmea.java.generics.uloha.uloha_3.objects;
 
-import com.skilmea.java.generics.uloha.uloha_3.objects.inteface.KnihaImpl;
+import com.skilmea.java.generics.uloha.uloha_3.objects.impl.KnihaImpl;
 
 public class Kniha extends Medium implements KnihaImpl{
 

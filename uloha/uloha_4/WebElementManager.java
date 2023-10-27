@@ -1,4 +1,6 @@
-package main.java.com.skilmea.java.generics.uloha.uloha_4;
+package com.skilmea.java.generics.uloha.uloha_4;
+
+import java.util.List;
 
 import com.skilmea.java.generics.uloha.uloha_3.objects.Kniha;
 
